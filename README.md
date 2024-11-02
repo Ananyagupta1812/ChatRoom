@@ -19,7 +19,7 @@ Ensure you have Python 3.x installed. Additionally, this project uses `tkinter` 
     cd chatroom-application
 
 2. Install required libraries:
-    pip install -r requirements.txt
+    pip install tk. ---to install tkinter
 
 ### Usage
 
