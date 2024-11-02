@@ -27,7 +27,7 @@ Ensure you have Python 3.x installed. Additionally, this project uses `tkinter` 
 To start the server, run:
 python Server.py <host>
 
-####Starting the Client
+#### Starting the Client
 Open the Chat_app file in explorer and from the path open cmd. 
 In cmd type:
 python client.py 127.0.0.1 
